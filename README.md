@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<This is Augustine Ezenwelu
+# This is Augustine Ezenwelu
 
 
-I am an Data Analyst/Enterpreneur
+# I am an Data Analyst/Enterpreneur
 
 - 🔭 I’m currently working on Data analysis pr
 - 🌱 I’m currently learning ...
