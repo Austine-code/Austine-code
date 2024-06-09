@@ -3,7 +3,7 @@
 <This is Augustine Ezenwelu
 
 
-Here are some ideas to get you started:
+I am an Data Analyst/Enterpreneur
 
 - 🔭 I’m currently working on Data analysis pr
 - 🌱 I’m currently learning ...
