@@ -5,8 +5,8 @@
 
 # I am an Data Analyst/Enterpreneur
 
-- 🔭 I’m currently working on Data analysis pr
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Data analysis program with Dahel Techies
+- 🌱 I’m currently learning data analysis with excel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m open to entry level data analysis role.
 - 💬 Ask me about ...
