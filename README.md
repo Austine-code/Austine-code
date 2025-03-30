@@ -3,7 +3,7 @@
 # This is Augustine Ezenwelu
 
 
-# I am a Business Systems/Data Analyst/Enterpreneur
+# I am a Business Systems/Data Analyst/Scientist/Enterpreneur
 
 - 🔭 I’m currently working as a Data analyst at De Fusion Restaurant and Bar
 - 🌱 I’m currently sharpening my data analysis skills using python and R
